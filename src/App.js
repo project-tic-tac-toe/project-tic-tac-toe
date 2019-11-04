@@ -10,6 +10,7 @@ function App() {
 }
 
 // =================== SQUARE ===================
+//=====================
 
 function Square(props) {
   return (
